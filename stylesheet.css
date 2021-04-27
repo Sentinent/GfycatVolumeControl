@@ -1,0 +1,15 @@
+.gfycat-volume-slider {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+
+    right: -30px; /* -(width/2) */
+    bottom: 25px;
+
+    padding: 0 !important;
+
+    transform-origin: left;
+    transform: rotate(-90deg);
+
+    cursor: pointer;
+}

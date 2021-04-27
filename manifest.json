@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Gfycat Volume Control",
+    "version": "0.0.1",
+
+    "icons": {
+        "128": "icon128.png"
+    },
+    "description": "Adds a volume control slider to Gfycat gifs with sound.",
+
+    "homepage_url": "https://github.com/Sentinent/GfycatVolumeControl",
+
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": [ "*://*.gfycat.com/*" ],
+            "js": [ "main.js" ],
+            "css": [ "stylesheet.css" ]
+        }
+    ]    
+}
