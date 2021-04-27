@@ -1,7 +1,7 @@
 # Gfycat Volume Control
 A Chrome extension that adds a volume slider to Gfycat gifs with sound.
 
-[Get on the Chrome Web Store]()
+[Get on the Chrome Web Store](https://chrome.google.com/webstore/detail/gfycat-volume-control/kbmgipmgemeiiglekhhfdnlldbjhgjff)
 
 ![](gh_assets/screenshot.png)
 
